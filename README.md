@@ -116,3 +116,4 @@ plt.show()
 ![image](https://github.com/prathima2002/rnn-stock-price-prediction/blob/72e5dfd3af93fae2a299add811dd109934980cf6/WhatsApp%20Image%202022-10-13%20at%2018.03.46.jpeg)
 
 ## RESULT
+Thus a recurrence neural network model is developed
