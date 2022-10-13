@@ -7,16 +7,18 @@ To develop a Recurrent Neural Network model for stock price prediction.
 ## Problem Statement and Dataset
 
 ## Neural Network Model
-
-Include the neural network model diagram.
+![image](https://github.com/prathima2002/rnn-stock-price-prediction/blob/a4fdf147d3a0be8640bf105ea73c5c7860d7c04d/WhatsApp%20Image%202022-10-13%20at%2018.11.56.jpeg)
 
 ## DESIGN STEPS
 
 ### STEP 1:
+import the neccesary tensorflow modules
 
 ### STEP 2:
+load the stock dataset
 
 ### STEP 3:
+fit the model and then predict
 
 Write your own steps
 
